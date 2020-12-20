@@ -1,0 +1,21 @@
+
+a653303 (HEAD -> master, origin/master, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+cc3f3e9 HEAD@{1}: checkout: moving from develop to master
+a653303 (HEAD -> master, origin/master, origin/develop, origin/HEAD, develop) HEAD@{2}: commit: Eight
+dde9be5 HEAD@{3}: commit (merge): Merge branch 'style' into develop
+1db6e2b (origin/images, images) HEAD@{4}: merge images: Fast-forward
+32fbd2f HEAD@{5}: checkout: moving from images to develop
+1db6e2b (origin/images, images) HEAD@{6}: checkout: moving from style to images
+91a1176 (origin/style, style) HEAD@{7}: commit: seven
+0078bb5 HEAD@{8}: commit: Six
+32fbd2f HEAD@{9}: checkout: moving from develop to style
+32fbd2f HEAD@{10}: checkout: moving from images to develop
+1db6e2b (origin/images, images) HEAD@{11}: checkout: moving from develop to images
+32fbd2f HEAD@{12}: checkout: moving from images to develop
+1db6e2b (origin/images, images) HEAD@{13}: commit: five
+2e92e15 HEAD@{14}: commit: four
+32fbd2f HEAD@{15}: checkout: moving from develop to images
+32fbd2f HEAD@{16}: commit: second
+cc3f3e9 HEAD@{17}: checkout: moving from master to develop
+cc3f3e9 HEAD@{18}: commit: first
+2df1278 HEAD@{19}: clone: from https://github.com/KarinaBi/DevOps__online__Vinnitsa__2020Q42021Q1.git
